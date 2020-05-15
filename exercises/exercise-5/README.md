@@ -15,7 +15,6 @@
 (define right-tree caddr)
 (define empty-tree? null?)
 
-
 (define t
   (make-tree 10
              (make-tree 7
